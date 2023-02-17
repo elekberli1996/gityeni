@@ -1,0 +1,3 @@
+git checkout versionhaskod -- .   kod calisir has kodun ilk 7 
+rakamida olur hepsi de olur
+ ile versiyon deisir

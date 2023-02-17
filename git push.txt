@@ -1,0 +1,5 @@
+git remote add githubRepo Adress 
+git push -u githubRepo master ile gonderir
+kullanici adi
+sifre
+https://github.com/elekberli1996/CSharpCours.git

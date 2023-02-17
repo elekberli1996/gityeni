@@ -1,0 +1,4 @@
+git config --global user.name "Emin Elekberli"
+git config --global user.email "elekberli1996@gmail.com"
+git config --global user.name
+git config --global user.email

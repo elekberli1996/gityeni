@@ -1,0 +1,3 @@
+watch  projeyi izler
+star beyendiyimiz
+fork projenin bi kopyasini aliriz

@@ -1,0 +1,7 @@
+git diff  ile dosyalarda edilen deisiklikleri gore bilerik
+deisimden onceki kisimlari kirmizi rengde deisimnen soraki kisimlari 
+ise yesil rengde gosterir
+
+git diff --staged 
+ ile gecis bolgesi ile git deposu arasindaki farkliliklari listeler
+

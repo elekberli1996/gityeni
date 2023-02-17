@@ -1,0 +1,6 @@
+gecis bolgesinden silinenleri veya deisilenlei geri almak ucun 
+git restore --staged file_adi
+comutunu calistiriq gecis bolgesinen dosya dizinine qaytarir
+daha sonra
+git restore file_adi
+comutu calistiriq

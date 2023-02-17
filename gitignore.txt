@@ -1,0 +1,4 @@
+git ignore git tarafindan takib edilmemesini istiyorsak
+bu dosyalarin ismini gitognora yazilir ve takib edilmir
+
+cat >> .gitignore git ignor dosyasi yaradiriq ve icerisine laizm olanlari atiriq

@@ -1,0 +1,7 @@
+pwd teminal uzerinde bulundumuz klasoru verir
+ls movcut dizinleri listeler
+ls -a gizli dosyalarida gosterir
+cd yazdigimiz dizibe girer change directory
+cd.. bir onceki diZin
+clear terminali temizler
+git init- git ptojesi yapar

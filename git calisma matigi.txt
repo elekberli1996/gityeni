@@ -1,0 +1,5 @@
+1Working directory
+git add .
+2Staging area
+git commit -m ""
+3Git repository

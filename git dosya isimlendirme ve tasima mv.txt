@@ -1,0 +1,5 @@
+elle deisdirile biler gecis bolgesine aktarilmali
+komut satri ile daha rahat
+git mv deneme1.txt deneme2.txt ad deisidir ve gecis bolgesinde hazir olur
+git mv 4.txt dosyaismi/  dosya tasir ve gecis bolgesinde hazir olur
+ 

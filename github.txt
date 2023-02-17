@@ -1,0 +1,3 @@
+git ve github ayni sey deil
+github git projelermizi depolamaya yararar
+projenizi bayka kisilere tanitmak icindir

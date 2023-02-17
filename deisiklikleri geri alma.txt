@@ -1,0 +1,4 @@
+eyer dosyada desiklik edib kaydeddikse  veya sildikdesora geri 
+almali oldugumuzda 
+gecis bolgesine atilmayibsa
+git restore file_adi comutu ile desiklikleri geri ala bilerik

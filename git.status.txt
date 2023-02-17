@@ -1,0 +1,4 @@
+git status  projenizde bi desiklik oldugunda gosterir
+add oluncaqlari kirmizi
+git add . comite hazir edilir
+commit olunacaqlar yesil gosterilir

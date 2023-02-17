@@ -1,0 +1,8 @@
+silinen dosya gecis bolumne gonderme
+git add file.name
+git rm file.name ile
+papkadan manuel sildikde yukardaki kodlari bi kez daha kullanmak gereke
+fakat
+git rm file.name ile sildikde bir basa gecis bolgesine atar
+klasor icersinde klasor olani silme icin
+git rm -r dosyaadi ile silinir

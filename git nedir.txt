@@ -1,0 +1,3 @@
+git bi versyon kontrol sistemidir, projelerin adim adim versiyalarini kopyalalarini alarak daha sonra
+itiyac halinde bu versiyalara kolayca geri done bilirsiniz.bi proje zamani bi sey ederken projenin 
+ bi kopyasini aliriz ve o kopya uzerinen davam ediriz
